@@ -1,0 +1,6 @@
+.box-answer {
+  background-color: aqua;
+  font-size: large;
+  display: flex;
+  justify-content: center;
+}
